@@ -5,8 +5,6 @@ import sys, re
 import datetime
 
 
-
-#time 관련해서는 스레드 문제로 오류나면 무조거 팅김 이제보니까 pyqt는 에러나면 무조건 팅기는거같음
 path = 'D:/diary/contents'
 
 
