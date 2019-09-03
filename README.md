@@ -1,2 +1,1 @@
-diary program
-using pyqt5
+project
